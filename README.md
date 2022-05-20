@@ -1,1 +1,1 @@
-Dukosi_Minesweeper
+Minesweeper
